@@ -1,5 +1,5 @@
 SBTsystem
 ===
-A Second_hand book Trading System
+A Second-hand Book Trading System
 ---
-aaa
+Initially, this system is built for the students of University of Michigan-Shanghai Jiao Tong University Joint Institute.<br>
