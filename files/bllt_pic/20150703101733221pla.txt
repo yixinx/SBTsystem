@@ -1,0 +1,134 @@
+What is the difference between documentation, citation, and reference?
+
+There is considerable overlap in how people use terms like document, cite, reference, quote, and the like. For the sake of consistency here, we will define these terms as follows:
+
+documentation is the general practice of acknowledging sources by clearly indicating what you have borrowed and giving the proper bibliographic information for each source
+a citation occurs when you use a specific source in your work and then follow up with the proper bibliographic information; plagiarism issues arise when you use a specific source, but fail to indicate what you have borrowed, and/or fail to provideproper bibliographic information
+a reference is the bibliographic information that guides readers to your source.
+
+
+nuclear weapons,coal smog, acid rain
+
+engineers have different responsibility than others, for example, teachers
+
+Why is it of particular concern in China?
+The implementation of tech on a never before seen scale coupled with a massive population
+so negative consequences
+so public safty is more concerned
+largest population so a larger public
+
+contract: Establish a relation between two parities;two sided-establish responsibilities/duties and rights
+
+2015/5/19
+professional based on education, knowledge, value of society
+The nature of safety
+safety is a matter of degrees thresholds
+dangerous:failure
+
+for example hurricane katrina 
+normative -right/weong a should question
+
+listing ethical issues does not consist in listing facts - although identifying the facts of a situation is important in determining the ethical issues
+
+factual -true/false 
+
+
+2015.5.21
+The nature purpose of engineering
+Not only about technical knowhow:
+make and design things and processes to make life better or at at least not make it worse:
+normaltive ethical dimension of engineering
+
+very few acts only make the world a better place e.g mining
+The goal shoudld thus be a balance between good and bad
+
+The use of reason in engineering
+is logical replicable and universal the same for all e.g. math. science
+(versus flipping a coin, emotions/intuitions. artistic/asetheics)
+engineering requires rationality - that one gives reason
+
+diferent individuals societies value things differently
+but having different value systems does not mean engineering should be different...
+
+The primary responsibility is public safety, is independent of other values a foundational value/lowest common denominator
+
+Approach to ethical concerns
+1.universalism
+2.societal/relativism
+the basis for deciding between right and wrong would be relative to the society in which on finds oneself.
+professional (engineering) ethics would be a mixture of approaches - reason + role responsibilities
+3.professional and role responsibilities
+
+2015/6/2
+The apprenticeship model
+occupations begin with families
+guilds rely on secrey -advantages over others on this basis
+
+the problem of this model is: the knowlege cannot be spread
+one student and one teacher: only what the "master" has taught him or her - different type/body of knowledge
+
+apprenticesship: one can learn how to imitate the master ->innovation
+professional:one can learn from the world ->from imitation to innovation
+
+university publish, everyone can learn
+
+master->school formal education
+
+do->theory->do 
+theory and practice
+philosophers only intrepret the world, is theory, so not professional
+engineer professional
+
+similarly, philosopher VS teacher 
+
+knoeledge is not disseminated
+....
+....
+....
+....
+Regulating the profession
+monopoly one controls
+
+in professions of membership, doing what the professon prescribes to control/assure....
+
+
+2015/06/09
+early codes emphasized the protection of the group : a"holdover" from the guild period
+initially engineering took medicine as its model the most prestigious
+
+Wrong models:doctoes deal with individual patiens paternalistically wherea engineers deal primarily with their bosses and clients.
+1947 ECPD ->ABET
+first engineers should be responsible to the public, safety as paramount
+all codes since then have taken a similar form-expections IEEE, chinese codes
+A PE(professional engineer) needs to be credited/have a license
+
+All engineering projects need t obe certified
+"an industrial exemption" one doesn't have to be a PE to work as an engineer, but someone needs to certify the projects
+
+regardless of degree, employer decides whether engineer
+
+public safety
+memorize verbatim!!!
+Concerns not only one's own behaviour - you have a duty to report unsafe behaviour to the "proper authority" -within/outside the organization
+
+Safety/competence
+versus the case of the Pinto......
+
+Professional development
+engineering changes very quickly - it's easy to fall behind in one's ability and become incompetent
+
+Lifelong learning is necessary.
+Learning isn't over once you complete school
+
+Faithful agency
+engineers must look out for the interests.....
+
+Confidentiality = keeping sectests	intellectual property
+
+2015/6/16
+Professional autonomy
+expertise
+
+engineers are mainly employed in hierarchical organizations
+
+Hierarchical authority is based on the position one occupies in an organization- a hierarchical chain of command

@@ -1,0 +1,9 @@
+body{
+	min-width: 1300px;
+	background-image: url(../images/bg.jpg);
+	font-family: Verdana;
+	color:#434142;
+	margin:0px;
+	padding: 50px 50px;
+}
+
